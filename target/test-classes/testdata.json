@@ -1,0 +1,198 @@
+{
+  "createEmployee": {
+    "firstName": "manasa",
+    "lastName": "kasarla",
+    "age": 25,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "1-25,Cherlabuthkur",
+      "city": "Karimnagar",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "505186"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "9908338182"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "dancing"
+    ]
+  },
+  "updateEmployee": {
+    "firstName": "manvitha",
+    "lastName": "lambu",
+    "age": 18,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Manthani",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "505185"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "987654321"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeWithfirstNameBlank": {
+    "lastName": "lambu",
+    "age": 18,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Manthani",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "505185"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9876543210"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeWithlastNameBlank": {
+    "firstName": "manvitha",
+    "age": 18,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Manthani",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "505185"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9876543210"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithAdressBlank": {
+    "firstName": "manvitha",
+    "lastName": "lambu",
+    "age": 18,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9876543210"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithphoneNumberBlank": {
+    "firstName": "manvitha",
+    "lastName": "lambu",
+    "age": 18,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Manthani",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "505185"
+    },
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeefirstNameBlank": {
+    "lastName": "dasari",
+    "age": 27,
+    "noOfChildrens": 1,
+    "spouse": true,
+    "address": {
+      "streetAddress": "2-56",
+      "city": "Sultanabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "505172"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9381378032"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeelastNameBlank": {
+    "firstName": "neha",
+    "age": 22,
+    "noOfChildrens": 3,
+    "spouse": true,
+    "address": {
+      "streetAddress": "Pragathinagar",
+      "city": "Peddapalli",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "505184"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9866047364"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeAdressBlank": {
+    "firstName": "manvitha",
+    "lastName": "kasarla",
+    "age": 15,
+    "noOfChildrens": 1,
+    "spouse": true,
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9908654628"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  }
+}
+
+
+
+
